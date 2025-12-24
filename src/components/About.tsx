@@ -43,7 +43,7 @@ export function About() {
               <div className="absolute inset-0 bg-gradient-to-tr from-cyan-500/20 to-blue-600/20 z-10"></div>
               <img 
                 // src="https://images.unsplash.com/photo-1703358902025-8695e8fc520e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmdXR1cmlzdGljJTIwd29ya3NwYWNlfGVufDF8fHx8MTc2NjE2MjAxNHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-                src="src\images\IMG_0449.jpeg"
+                src="mass.jpg"
                 alt="Workspace"
                 className="w-full h-[500px] object-cover"
               />
